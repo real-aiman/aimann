@@ -1,0 +1,38 @@
+.form-table {
+    width: 100%;
+}
+
+.form-table td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+/* Inputs */
+input, textarea, select {
+    padding: 5px;
+    margin: 3px;
+}
+
+/* Small text */
+span {
+    font-size: 12px;
+}
+
+/* Inner table */
+.inner-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.inner-table th, .inner-table td {
+    border: 1px solid white;
+    padding: 5px;
+}
+
+/* Buttons */
+button {
+    margin: 10px;
+    padding: 5px 15px;
+    cursor: pointer;
+}
